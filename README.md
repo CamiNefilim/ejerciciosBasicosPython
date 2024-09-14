@@ -38,9 +38,9 @@ Este proyecto incluye una colección de ejercicios básicos en Python, diseñado
 
 ## Autor
 
-- Camila Alvarado Astroza - CamiNefilim
+- Camila Alvarado Astroza - [CamiNefilim](https://github.com/CamiNefilim)
 
-##Agradecimientos
+## Agradecimientos
 
 - A Bootcamp Latinas in Cloud.
 - A la comunidad de Python por su extensa documentación y apoyo.
